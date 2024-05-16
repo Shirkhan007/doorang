@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mellim birin ozunun isleyin bizde oyrenek.props" />
+</Project>

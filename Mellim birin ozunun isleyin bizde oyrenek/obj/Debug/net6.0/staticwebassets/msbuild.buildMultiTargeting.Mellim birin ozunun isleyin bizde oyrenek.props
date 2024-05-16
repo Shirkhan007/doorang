@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mellim birin ozunun isleyin bizde oyrenek.props" />
+</Project>
